@@ -1,0 +1,13 @@
+﻿  Scanning sources for module dependencies...
+  CombatTracker.cpp
+  Entity.cpp
+  Player.cpp
+  TheUncodedOne.cpp
+  Compiling...
+  TheUncodedOne.cpp
+  Entity.cpp
+  CombatTracker.cpp
+  Player.cpp
+E:\C++ Tuts\TheUncodedOne\Player.cpp(18,11): warning C4553: '==': result of expression not used; did you intend '='?
+E:\C++ Tuts\TheUncodedOne\Player.cpp(22,11): warning C4553: '==': result of expression not used; did you intend '='?
+  TheUncodedOne.vcxproj -> E:\C++ Tuts\TheUncodedOne\x64\Debug\TheUncodedOne.exe

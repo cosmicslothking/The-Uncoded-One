@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "TheUncodedOne\\x64\\Debug\\TheUncodedBoss.obj",
+            "outputs": [
+                "E:\\C++ Tuts\\TheUncodedOne\\The-Uncoded-One\\TheUncodedOne\\x64\\Debug\\vc143.pdb",
+                "TheUncodedOne\\x64\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}
